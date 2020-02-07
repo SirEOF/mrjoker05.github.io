@@ -1,0 +1,53 @@
+Hello World !
+<-- Main Page-->
+# Here's Something about me:
+
+My name is Shubham Arya, I am a Cyber Security Enhusiast and a bugbounty hunter. 
+I am a Computer Science Engineer by profession. I Love playing CTFs in my free time.
+You'll see some writeups about them soon.
+
+# Something about my Website:
+
+This website was created because I was getting really bored on my weekend
+and I wanted to do something productive.
+And ofcourse I would love to write my website on my resume.
+In addition to that, I created two more pages (link below).
+I usually keep them on my homescreen when I am playing or working.
+Feel free to make them your homepage, it really helped me in my 
+productivity and it might help you.
+
+# About my Work:
+
+And ofcourse like (almost) everyone has a github page I do too.
+It highlights my work(most of it is just the stuff I make in my free time)
+If you like you can contribute to it too.
+
+# If you want to explore more:
+
+This is my blog.
+This is my twitter page.
+This is my LinkedIn profile.
+
+<--Bucket List-->
+
+# Books
+* Harry Potter and the sorcerer's stone
+* Harry Potter and the Chamber of secrets
+* Harry Potter and the Prizoner of askaban
+* The Subtle Art of not giving a F$ck
+* The power of Habit
+* The Practicing Mind
+* Antifragile
+* The monk who sold his ferrari
+
+# Places
+* Golden Temple Amritsar
+* Rock Garden Chandigadh
+* Taj Mahal Agra
+*
+
+# The 'Crazy' List
+* Sky Diving from --- foot
+* Rafting in Rishikesh
+* Flying a plane
+* 

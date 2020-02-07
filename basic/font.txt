@@ -1,0 +1,12 @@
+font-family: 'Merriweather', serif;
+font-family: 'Slabo 27px', serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Bree Serif', serif;
+font-family: 'Crete Round', serif;
+font-family: 'Playfair Display', serif;
+
+<link href="https://fonts.googleapis.com/css?family=Bree+Serif|Comfortaa|Crete+Round|Merriweather|Playfair+Display|Slabo+27px&display=swap" rel="stylesheet">
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Comfortaa|Crete+Round|Merriweather|Playfair+Display|Slabo+27px&display=swap');
+</style>
